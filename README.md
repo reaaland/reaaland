@@ -1,8 +1,8 @@
+![Rebecca Aaland — Frontend Developer](github-profile-banner.png.png)
+
 # Hi 👋 I'm Rebecca
 
-## Frontend Developer
-
-Former educator and small-business owner turned frontend developer, building practical, user-focused web applications and real-world digital products.
+Building user-friendly web applications that solve practical, real-world problems.
 
 - 🔭 Currently building **Mahaku**, a Next.js and Supabase application
 - 🚀 Built and launched **PawCircle Membership**, a full web application for pet owners and service providers
