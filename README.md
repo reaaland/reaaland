@@ -12,14 +12,17 @@ Building user-friendly web applications that solve practical, real-world problem
 
 ## Featured Work
 
-### Mahaku
-A developing AI-centered application designed to support people across creative, technical, and practical projects while maintaining continuity and context over time.
+### [PawCircle Membership](https://pawcirclemembership.com)
+A membership web application I designed, built, launched, and maintain for pet owners and pet service providers.
 
-### PawCircle Membership
-A membership web application I designed, built, launched, and maintained using React, Supabase, Stripe, and Vercel.
+**React · Supabase · Stripe · Vercel**  
+[Live Site](https://pawcirclemembership.com) · [GitHub](https://github.com/reaaland/PawCircle-Membership)
 
-### Frontend Simplified Projects
-Frontend projects completed through structured software development training, including responsive interfaces, API integration, React applications, and deployed web experiences.
+### [Ultraverse NFT Marketplace](https://rebecca-internship.vercel.app)
+A responsive React marketplace built during my Frontend Simplified internship, featuring API-driven content, reusable components, routing, loading states, responsive carousels, countdown timers, and filtering.
+
+**React · JavaScript · React Router · Axios · CSS · REST APIs · Vercel**  
+[Live Demo](https://rebecca-internship.vercel.app) · [GitHub](https://github.com/reaaland/rebecca-internship)
 
 ## Connect With Me
 
