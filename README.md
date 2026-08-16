@@ -13,7 +13,7 @@ Building user-friendly web applications that solve practical, real-world problem
 ## Featured Work
 
 ### [PawCircle Membership](https://pawcirclemembership.com)
-A membership web application I designed, built, launched, and maintain for pet owners and pet service providers.
+A membership web application I designed, built, launched, and maintained for pet owners and pet service providers.
 
 **React · Supabase · Stripe · Vercel**  
 [Live Site](https://pawcirclemembership.com) · [GitHub](https://github.com/reaaland/PawCircle-Membership)
