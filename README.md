@@ -13,16 +13,28 @@ Building user-friendly web applications that solve practical, real-world problem
 ## Featured Work
 
 ### [PawCircle Membership](https://pawcirclemembership.com)
-A membership web application I designed, built, launched, and maintained for pet owners and pet service providers.
+A full-stack membership web application I designed, built, launched, and maintained for pet owners and pet service providers.
 
-**React · Supabase · Stripe · Vercel**  
+**React · Supabase · PostgreSQL · Stripe · Vercel**  
 [Live Site](https://pawcirclemembership.com) · [GitHub](https://github.com/reaaland/PawCircle-Membership)
 
-### [Ultraverse NFT Marketplace](https://rebecca-internship.vercel.app)
-A responsive React marketplace built during my Frontend Simplified internship, featuring API-driven content, reusable components, routing, loading states, responsive carousels, countdown timers, and filtering.
+### [Skinstric](https://skinstric-internship-chi.vercel.app)
+A paid frontend internship project built from supplied Figma designs and APIs, including responsive layouts, validated intake, camera and gallery image capture, browser permissions, and editable results.
+
+**Next.js · TypeScript · Tailwind CSS · REST APIs · Vercel**  
+[Live Demo](https://skinstric-internship-chi.vercel.app) · [GitHub](https://github.com/reaaland/skinstric-internship)
+
+### [Ultraverse NFT Marketplace](https://ultraverse.rebeccaiaaland.com)
+A responsive React marketplace featuring API-driven content, reusable components, routing, loading states, responsive carousels, countdown timers, sorting, and filtering.
 
 **React · JavaScript · React Router · Axios · CSS · REST APIs · Vercel**  
-[Live Demo](https://rebecca-internship.vercel.app) · [GitHub](https://github.com/reaaland/rebecca-internship)
+[Live Demo](https://ultraverse.rebeccaiaaland.com) · [GitHub](https://github.com/reaaland/ultraverse-nft-marketplace)
+
+### [Summarist](https://summarist-internship-delta.vercel.app)
+A responsive multi-route book-summary application with Firebase Authentication, Firestore persistence, Redux Toolkit state management, debounced search, protected routes, premium states, and audio playback.
+
+**Next.js · TypeScript · Firebase · Firestore · Redux Toolkit · Vercel**  
+[Live Demo](https://summarist-internship-delta.vercel.app) · [GitHub](https://github.com/reaaland/summarist-internship)
 
 ### Skills & Tools
 <p align="left">
